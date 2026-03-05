@@ -12,5 +12,6 @@ EC11 Rotary encoder for whatever you want
 2 WS2812B RGB LEDs. One for underglow, and one that diffuses throughout the case
 5 Keys
 ![Uploading image.png…]()
+![Uploading image.png…]()
 
 
