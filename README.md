@@ -13,5 +13,6 @@ EC11 Rotary encoder for whatever you want
 5 Keys
 ![Uploading image.png…]()
 ![Uploading image.png…]()
+![Uploading image.png…]()
 
 
