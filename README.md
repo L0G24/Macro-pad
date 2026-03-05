@@ -1,4 +1,4 @@
-# Macro-pad
+<img width="1170" height="726" alt="image" src="https://github.com/user-attachments/assets/4d18bf14-446e-4e2a-9db0-d833713832ae" /># Macro-pad
 this is a macro pad which is a very useful gadget. i can control volume, and use some shortcuts using this macro pad in a single click of a key
 MAcropad
 MAcropad is a 5 key macropad with a rotary encoder, an OLED Display. It also has 2 WS2812B Leds, and uses QMK firmware
@@ -12,3 +12,5 @@ EC11 Rotary encoder for whatever you want
 2 WS2812B RGB LEDs. One for underglow, and one that diffuses throughout the case
 5 Keys
 ![Uploading image.png…]()
+
+
