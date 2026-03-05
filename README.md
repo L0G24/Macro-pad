@@ -11,3 +11,4 @@ Dual layer acrylic case. looks looks awesome doesn't it??
 EC11 Rotary encoder for whatever you want
 2 WS2812B RGB LEDs. One for underglow, and one that diffuses throughout the case
 5 Keys
+https://github.com/L0G24/Macro-pad/blob/main/macropad_3d_model.png?raw=true
