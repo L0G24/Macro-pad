@@ -37,7 +37,7 @@
 ###### 
 
 * #### Overall Hackpad
-![Screenshot of the fully assembled hackpad to be updated after assembly]()
+![Screenshot of the fully assembled hackpad to be updated after assembly](overall_macropad.png)
 #### 
 
 * #### Schematic
