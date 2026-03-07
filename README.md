@@ -88,25 +88,25 @@
 
 ## ***🧾 Parts List***
 
-#### **Part				                  Quantity		   Notes**
+#### **Part 				                  Quantity		   Notes**
 
-#### Seeed XIAO RP2040		             1			     Main controller
+#### Seeed XIAO RP2040  		             1			     Main controller
 
-#### MX mechanical switches		         5			     With keycaps
+#### MX mechanical switches	  	         5			     With keycaps
 
-#### EC11 rotary encoder		           1			     With push button
+#### EC11 rotary encoder		             1			     With push button
 
-#### SSD1306 OLED, 0.91", 4-pin	       1			     I2C (GND-VCC-SCL-SDA)
+#### SSD1306 OLED, 0.91", 4-pin	         1			     I2C (GND-VCC-SCL-SDA)
 
-#### SK6812 MINI-E LEDs		            10			     Addressable RGB
+#### SK6812 MINI-E LEDs		              10			     Addressable RGB
 
-#### 1N4148 diodes			               5			     One per switch
+#### 1N4148 diodes			                 5			     One per switch
 
-#### M3 heat-set inserts		           2		       For mounting
+#### M3 heat-set inserts		             2		       For mounting
 
-#### M3×16mm screws	                   2           For PCB mounting
+#### M3×16mm screws	                     2           For PCB mounting
 
-#### 3D printed case + plate	         1	         Custom Fusion design
+#### 3D printed case + plate	           1	         Custom Fusion design
 
 
 
